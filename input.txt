@@ -1,0 +1,8 @@
+add $s0 $s1 $s2
+sub $s0 $s1 $s2
+addi $s0 $s1 2
+and $s0 $s1 $s2
+or  $s0 $s1 $s2
+beq $s0 $s1 4
+j 4
+j 70

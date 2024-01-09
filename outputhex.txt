@@ -1,0 +1,8 @@
+O123
+1123
+2122
+ 3123
+4123
+5124
+7400
+The immediate number supplied is out of range
